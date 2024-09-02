@@ -1,1 +1,2 @@
 This is exactly the same as what I made just without the private key for the database access was deleted.
+This was my first official c# project, I used Blazor to make this. Its a basic form website when users enter their information and specify if they are going to their matric reunion. There is a seperate page where admins with the passwords can see the data entered, all of the data is stored in FireBase.
